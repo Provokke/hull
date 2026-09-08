@@ -418,4 +418,3 @@ mod tests {
         assert!(matches!(v, Version::V1 | Version::V2));
     }
 }
-
